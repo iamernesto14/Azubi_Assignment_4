@@ -1,0 +1,19 @@
+/* styles.css */
+.heading {
+    background-color: #ff9800;
+  }
+  
+  ul {
+    border: 1px solid #333;
+    padding: 10px;
+  }
+  
+  li {
+    color: #555;
+    font-weight: bold;
+  }
+  
+  li:hover {
+    background-color: #f5f5f5;
+  }
+  
